@@ -145,3 +145,16 @@ elif ortalama>=50 and ortalama<60:
 else:
     print("Genelisletme dersinden maalesef Gecemediniz.")
 # ---------------------------------------------------
+sayac = int(input("lutfen öğrenci sayısını giriniz."))
+i = 0
+while (sayac>i):
+    sayac -= 1
+    mat(vize,final)
+    genelisletme(vize,final)
+    edebiyat(vize,final)
+    finansal(vize,final)
+    proglamlama(vize,final)
+    inglizce(vize,final)
+    inkilap(vize,final)
+
+
