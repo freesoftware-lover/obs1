@@ -1,16 +1,4 @@
 # Obs sistemi
-sayac = int(input("lutfen öğrenci sayısını giriniz."))
-i = 0
-while (sayac>i):
-    sayac -= 1
-    mat(vize,final)
-    genelisletme(vize,final)
-    edebiyat(vize,final)
-    finansal(vize,final)
-    proglamlama(vize,final)
-    inglizce(vize,final)
-    inkilap(vize,final)
-
 def mat(vize,final):
    print()
 vize = int(input("Matematik Vize notunuzu girinz lutfen:"))
